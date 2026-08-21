@@ -1,34 +1,43 @@
 # Pilot
 
-Welcome to my repository. I am a high school student trying to learn how to use Python, C++ and specific tools and environments in the world of programming to make myself ready for industry standard applications.
+Welcome to my repository. My name is Shaurya, and I'm a high school student developing my skills in Python, C++, software development, Git/GitHub, and modern development tools so that I can build my own projects and develop a strong foundation for a future in engineering.
 
----
+## More About Me
 
-## About Me
-- **Current Status:** iGCSE Year 11 student.
-- **Goals:** 
-  - Master advanced Python and C++ concepts.
-  - Learn industry-standard IDEs (like VS Code).
-  - Understand Git and GitHub workflows for seamless team collaboration.
+**Current Year Group:** Year 11
 
----
+**Long-term goals:**
+- Apply technical skills to solve genuinely interesting and important problems.
+- Develop strong foundations in computer science.
+- Learn professional software development practices.
 
-## What I Am Learning
+## The Plan
 
-### Python
-*Goal: Move from iGCSE basics to in-depth application.*
-- [x] iGCSE Computer Science curriculum basics
-- [ ] **IB Computer Science** level skills
-- [ ] Mastery of **algorithms, libraries,** and coding at an **industry standard**.
+### Phase 1 - Year 11 (currently here)
+- Build solid Python and C++ foundations.
+- Develop effective workflows using GitHub, IDEs, and AI-assisted development tools.
 
-### C++
-*Goal: Learn C++ for more versatile applications.*
-- [ ] Syntax and basic structure
-- [ ] **Pointers and memory management**
-- [ ] Building performance-critical applications
-- [ ] Mastery of **OOP, memory management, and STL**
+### Phase 2 - Year 12
+- Start larger-scale projects that solve problems in my daily life.
+- Apply mathematics and engineering concepts to my projects and code.
 
+### Phase 3 - Year 13
+- Develop a substantial flagship project based on the interests I've discovered.
+- Explore research and open-source contributions.
 
-### Tools & Environments
-- **Version Control:** Git & GitHub (Branching, merging, pull requests)
-- **IDEs:** VS Code, Google Colab.
+## The Ultimate Goal
+
+Currently, I don't know exactly what I want to do in the future, or at least what specifically.
+
+Pilot, much like a pilot episode, is my way of exploring different applications of computer science while building a strong technical foundation. As I learn more, I hope to discover which areas I want to specialise in later.
+
+## Currently Working On
+
+- **Stock Market Data Presenter:** A beginner Python project using `yfinance` and `pandas` to retrieve and explore financial data, serving as an introduction to using external Python libraries.
+- Learning to use GitHub, VS Code, Google Colab, and AI-assisted development tools effectively.
+- Building upon my existing Python knowledge from iGCSE Computer Science.
+
+## Key Links
+
+- [Python Projects](./Python%20Code%20Log/)
+- [Journal](./Journal/)
