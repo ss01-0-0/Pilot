@@ -1,6 +1,6 @@
 # Pilot
 
-Welcome to my repository! I am a high school student documenting my journey as I dive deeper into programming, version control, and software development tools. My goal is to build a strong technical foundation for my future university degree and career.
+Welcome to my repository. I am a high school student trying to learn how to use Python, C++ and specific tools and environments in the world of programming to make myself ready for industry standard applications.
 
 ---
 
@@ -16,16 +16,18 @@ Welcome to my repository! I am a high school student documenting my journey as I
 ## What I Am Learning
 
 ### Python
-*Goal: Move from iGCSE basics to in-depth application (OOP, data structures, automation).*
+*Goal: Move from iGCSE basics to in-depth application.*
 - [x] iGCSE Computer Science curriculum basics
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Data structures and algorithms
+- [ ] **IB Computer Science** level skills
+- [ ] Mastery of **algorithms, libraries,** and coding at an **industry standard**.
 
 ### C++
-*Goal: Learn a low-level language to understand memory management and performance.*
+*Goal: Learn C++ for more versatile applications.*
 - [ ] Syntax and basic structure
-- [ ] Pointers and memory management
+- [ ] **Pointers and memory management**
 - [ ] Building performance-critical applications
+- [ ] Mastery of **OOP, memory management, and STL**
+
 
 ### Tools & Environments
 - **Version Control:** Git & GitHub (Branching, merging, pull requests)
