@@ -1,7 +1,32 @@
 # Pilot
-learning how to use GitHub, vs code/whatever IDE I can get access to and documenting journey of learning python and c++
 
-background info:
-at the time of starting this, I am an iGCSE student taking computer science so I have some level of competency in python.
-i want to learn python and c++ more in depth for future application in work, the degree I might take etc.
-i want to learn GitHub to be able to work with people in teams more easily
+Welcome to my repository! I am a high school student documenting my journey as I dive deeper into programming, version control, and software development tools. My goal is to build a strong technical foundation for my future university degree and career.
+
+---
+
+## About Me
+- **Current Status:** iGCSE Year 11 student.
+- **Goals:** 
+  - Master advanced Python and C++ concepts.
+  - Learn industry-standard IDEs (like VS Code).
+  - Understand Git and GitHub workflows for seamless team collaboration.
+
+---
+
+## What I Am Learning
+
+### Python
+*Goal: Move from iGCSE basics to in-depth application (OOP, data structures, automation).*
+- [x] iGCSE Computer Science curriculum basics
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Data structures and algorithms
+
+### C++
+*Goal: Learn a low-level language to understand memory management and performance.*
+- [ ] Syntax and basic structure
+- [ ] Pointers and memory management
+- [ ] Building performance-critical applications
+
+### Tools & Environments
+- **Version Control:** Git & GitHub (Branching, merging, pull requests)
+- **IDEs:** VS Code, Google Colab.
