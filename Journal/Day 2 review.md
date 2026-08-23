@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 Review
 # What did I do?
 - Improved stock market data presenter by adding the ability to allow the user to input what to find.
 - Also learned about .describe() and .info(), which concisely present key aspects of the DataFrame.
